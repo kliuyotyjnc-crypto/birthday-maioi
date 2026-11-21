@@ -105,9 +105,9 @@ function nextPage3() {
             <h2 dir="ltr">9 years ♡</h2>
 
             <div class="photo-gallery">
-                <img src="images/memory1.jpg" alt="ذكرياتنا">
-                <img src="images/memory2.jpg" alt="ذكرياتنا">
-                <img src="images/memory3.jpg" alt="ذكرياتنا">
+                <img src="memory1.jpg" alt="ذكرياتنا">
+                <img src="memory2.jpg" alt="ذكرياتنا">
+                <img src="memory3.jpg" alt="ذكرياتنا">
             </div>
 
             <p class="message">
@@ -141,61 +141,61 @@ function nextPageReasons() {
             <div class="reasons-list" dir="rtl">
 
                 <div class="reason-card">
-                    <img src="images/memory8.jpg" alt="سبب 1">
+                    <img src="memory8.jpg" alt="سبب 1">
                     <h2>1. إنتِ أختي اللي مخلفتهاش أمي</h2>
                     <p>إنتِ جزء من عيلتي ومن كل تفاصيل أيامي.</p>
                 </div>
 
                 <div class="reason-card">
-                    <img src="images/memory9.jpg" alt="سبب 2">
+                    <img src="memory9.jpg" alt="سبب 2">
                     <h2>2. ضحكتنا ملهاش بديل</h2>
                     <p>معاكي أبسط المواقف بتتحول لذكريات حلوة.</p>
                 </div>
 
                 <div class="reason-card">
-                    <img src="images/memory4.jpg" alt="سبب 3">
+                    <img src="memory4.jpg" alt="سبب 3">
                     <h2>3. بتفهميني من غير كلام</h2>
                     <p>بتفهمي أنا حاسة بإيه من غير ما أشرح.</p>
                 </div>
 
                 <div class="reason-card">
-                    <img src="images/memory6.jpg" alt="سبب 4">
+                    <img src="memory6.jpg" alt="سبب 4">
                     <h2>4. بعرف أكون على طبيعتي معاكي</h2>
                     <p>معاكي مش محتاجة أكون حد غير نفسي.</p>
                 </div>
 
                 <div class="reason-card">
-                    <img src="images/memory10.jpg" alt="سبب 5">
+                    <img src="memory10.jpg" alt="سبب 5">
                     <h2>5. عشرة العمر</h2>
                     <p>تسع سنين عدوا ولسه عندنا حكايات كتير.</p>
                 </div>
 
                 <div class="reason-card">
-                    <img src="images/memory7.jpg" alt="سبب 6">
+                    <img src="memory7.jpg" alt="سبب 6">
                     <h2>6. وجودك بيهون عليا</h2>
                     <p>مجرد وجودك جنبي بيفرق معايا.</p>
                 </div>
 
                 <div class="reason-card">
-                    <img src="images/memory5.jpg" alt="سبب 7">
+                    <img src="memory5.jpg" alt="سبب 7">
                     <h2>7. كل تفصيلة معاكي ليها ذكرى</h2>
                     <p>حتى أبسط اللحظات بتفضل غالية عندي.</p>
                 </div>
 
                 <div class="reason-card">
-                    <img src="images/memory1.jpg" alt="سبب 8">
+                    <img src="memory1.jpg" alt="سبب 8">
                     <h2>8. إنتِ أماني وراحتي</h2>
                     <p>وجودك في حياتي نعمة كبيرة.</p>
                 </div>
 
                 <div class="reason-card">
-                    <img src="images/memory3.jpg" alt="سبب 9">
+                    <img src="memory3.jpg" alt="سبب 9">
                     <h2>9. شوفتي مني كل حاجة ولسه جنبي</h2>
                     <p>في كل حالاتي وجودك بيفرق معايا.</p>
                 </div>
 
                 <div class="reason-card">
-                    <img src="images/memory2.jpg" alt="سبب 10">
+                    <img src="memory2.jpg" alt="سبب 10">
                     <h2>10. ببساطة إنتِ مي ❤️</h2>
                     <p>ودي لوحدها كفاية عشان أحبك وأتمنى تفضلي في حياتي.</p>
                 </div>
